@@ -7,7 +7,7 @@
 #
 # Usage Information: Run the script along with 2 files (an enzyme file and a DNA file)
 #-------------------------------------------------------------------------------
-#                    Assignment 6: DNA -> RNA -> Amino Acid Conversion
+#                    Assignment 7: DNA -> RNA -> Amino Acid Conversion
 #-------------------------------------------------------------------------------
 
 $^W = 1; # Turns Warnings On
